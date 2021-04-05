@@ -1,0 +1,26 @@
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+#navbar li {
+    display: inline;
+    margin-left: 5px;
+  }
+
+  #urunler ol{
+    list-style-position: inside;
+  }
+#navbar {
+    text-align: center;
+}
+#urunler{
+    text-align: center;
+}
+#icerik {
+    text-align: center;
+}
+#icerik ul {
+    list-style-position: inside;
+}
